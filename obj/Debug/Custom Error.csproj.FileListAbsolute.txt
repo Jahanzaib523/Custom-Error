@@ -1,0 +1,11 @@
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\bin\Debug\Custom Error.exe.config
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\bin\Debug\Custom Error.exe
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\bin\Debug\Custom Error.pdb
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\obj\Debug\Custom_Error.Form1.resources
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\obj\Debug\Custom_Error.Form2.resources
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\obj\Debug\Custom_Error.Properties.Resources.resources
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\obj\Debug\Custom Error.csproj.GenerateResource.cache
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\obj\Debug\Custom Error.csproj.CoreCompileInputs.cache
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\obj\Debug\Custom Error.exe
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\obj\Debug\Custom Error.pdb
+C:\Users\Jahanzaib Manzoor\source\repos\Custom Error\obj\Debug\Custom Error.csproj.AssemblyReference.cache
